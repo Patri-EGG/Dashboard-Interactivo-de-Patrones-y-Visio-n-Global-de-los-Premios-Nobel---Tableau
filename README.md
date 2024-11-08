@@ -5,7 +5,7 @@ Este repositorio contiene un dashboard interactivo de Tableau que analiza los pa
 ## Enlace al Dashboard
 
 Puedes ver el dashboard interactivo en Tableau Public a través del siguiente enlace:
-[Análisis de Patrones y Visión Global de los Premios Nobel](https://public.tableau.com/views/AnlisisdePatronesyVisinGlobaldelosPremiosNobel-PromoH-Pareja5/Historia1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Análisis de Patrones y Visión Global de los Premios Nobel](https://public.tableau.com/app/profile/patricia.gonzalez5374/viz/AnlisisdePatronesyVisinGlobaldelosPremiosNobel/Historia1?publish=yes)
 
 ## Equipo
 
